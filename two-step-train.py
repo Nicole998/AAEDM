@@ -17,9 +17,7 @@ import time
 
 
 
-# parser = argparse.ArgumentParser(description=
-#     'Loss is implement by LINGHUI'
-# )
+
 
 # parser.add_argument('--loss', 
 #     default = 'New_loss', 
